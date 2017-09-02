@@ -1,7 +1,7 @@
 num=input()
 if num>0:
- print(num)
+	print(num)
 if num<0:
- print("0")
+	print("0")
 if num==0:
- print("zero")
+	print("zero")
